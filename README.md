@@ -82,7 +82,7 @@ Healthcare management system with appointment booking and patient tracking.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv96752&theme=github-dark&hide_border=true"/>
 
 </p>
 
