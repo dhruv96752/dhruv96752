@@ -62,19 +62,19 @@ Healthcare management system with appointment booking and patient tracking.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruv96752&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruv96752&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=dhruv96752&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=dhruv96752&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv96752&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv96752&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
