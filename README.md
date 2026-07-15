@@ -92,15 +92,15 @@ Healthcare management system with appointment booking and patient tracking.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dhruv96752">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dhruv-varshney01">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dhruv010201@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
