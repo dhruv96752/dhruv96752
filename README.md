@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Dhruv Varshney
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;AI+%7C+Web+Developer;Building+Real-World+Projects;Always+Learning+Something+New+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhruv+Varshney;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ### 💻 Turning ideas into reality through code.
 
@@ -64,7 +66,7 @@ Healthcare management system with appointment booking and patient tracking.
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=dhruv96752&theme=github-dark&hide_border=true"/>
 
 
 </div>
