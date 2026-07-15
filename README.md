@@ -1,19 +1,16 @@
-<div align="center">
-
-# 👋 Hi, I'm Dhruv Varshney
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhruv%20Varshney&fontSize=55&fontAlign=50&fontAlignY=40&color=0:3B82F6,100:9333EA&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhruv+Varshney;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
-### 💻 Turning ideas into reality through code.
+<h3 align="center">💻 Turning ideas into reality through code.</h3>
 
-<p>
+<p align="center">
 🎓 B.Tech CSE (Artificial Intelligence) Student • 🇮🇳 India
 </p>
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
