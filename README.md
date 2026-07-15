@@ -64,7 +64,8 @@ Healthcare management system with appointment booking and patient tracking.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhruv96752&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
 
 </div>
 
