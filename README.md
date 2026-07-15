@@ -11,7 +11,6 @@
 <p align="center">
 🎓 B.Tech CSE (Artificial Intelligence) Student • 🇮🇳 India
 </p>
----
 
 # 👨‍💻 About Me
 
